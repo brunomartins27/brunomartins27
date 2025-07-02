@@ -13,7 +13,7 @@ Mi nombre es Bruno Martins, tengo 30 años y soy oriundo de Río de Janeiro, Bra
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Lenguajes y Tecnologías:
 <img 
     align="left" 
     alt="HTML"
@@ -89,7 +89,7 @@ Mi nombre es Bruno Martins, tengo 30 años y soy oriundo de Río de Janeiro, Bra
 <br/>
 ==
 
-### 📊 Estatísticas
+### 📊 Mis estadísticas
 
 <img 
       align="left" 
